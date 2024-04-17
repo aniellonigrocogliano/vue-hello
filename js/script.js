@@ -4,7 +4,9 @@ createApp({
 
   data() {
     return {
-     message:"Ciao utente benvenuto nella mio primoscript scritto con l'ausilio di vue",
+     message:"Ciao utente benvenuto nella mio primo script scritto con l'ausilio di vue",
+     linkImg: "./img/image.jpg",
+     altImg: "Panorama",
     };
   },
 
